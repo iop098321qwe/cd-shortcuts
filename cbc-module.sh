@@ -5,7 +5,7 @@
 ################################################################################
 
 alias back='cd ..'
-alias cdgh='cd ~/Documents/github_repositories'
+alias repo='cd ~/Documents/github_repositories'
 alias docs='cd ~/Documents'
 alias downloads='cd ~/Downloads'
 alias dl='downloads'
