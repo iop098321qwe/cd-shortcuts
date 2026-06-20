@@ -1,12 +1,14 @@
-# Cd Shortcuts
+# cd Shortcuts
 
-Shell aliases for jumping to frequently used directories.
-Keeps common `cd` targets short and consistent across sessions.
+Shell aliases for jumping to frequently used directories. Keeps common `cd`
+targets short and consistent across sessions.
 
 ## Functions
+
 - None.
 
 ## Aliases
+
 - `back`: Change to the parent directory.
 - `repo`: Change to `~/Documents/github_repositories`.
 - `docs`: Change to `~/Documents`.
