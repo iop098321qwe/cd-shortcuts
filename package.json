@@ -1,0 +1,29 @@
+{
+  "name": "cd-shortcuts",
+  "version": "0.0.2",
+  "description": "Shell aliases for jumping to frequently used directories. Keeps common `cd` targets short and consistent across sessions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iop098321qwe/cd-shortcuts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iop098321qwe/cd-shortcuts/issues"
+  },
+  "homepage": "https://github.com/iop098321qwe/cd-shortcuts#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "husky": "^9.1.7"
+  }
+}
